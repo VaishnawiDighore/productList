@@ -1,0 +1,19 @@
+.App {
+  text-align: left;
+  background-color: bisque;
+}
+ button{
+  background-color: rgb(127, 150, 255);
+  font-size: 20px;
+  color:azure;
+  padding:3px;
+  border-color: blue;
+  border-radius: 10px;
+ }
+ h2{
+  background-color: palegreen;
+  height:50px;
+  margin:auto;
+  padding: 10px;
+ }
+
